@@ -4,20 +4,16 @@
 package net.WookiePaw.EnDob.Blocks;
 
 import com.cubes.Block;
-import static com.cubes.Block.Face.Bottom;
-import static com.cubes.Block.Face.Top;
-import com.cubes.BlockChunkControl;
 import com.cubes.BlockManager;
 import com.cubes.BlockSkin;
 import com.cubes.BlockSkin_TextureLocation;
-import com.cubes.Vector3Int;
 import net.WookiePaw.EnDob.Manager.GenericBlockManager;
 
 
-public class DirtBlock extends Block implements GenericBlockManager{
+public class WoodBlock extends Block implements GenericBlockManager{
     private boolean isTransparent = false;
     private boolean isWalkThroughable = false;
-    private BlockSkin skin = new BlockSkin(new BlockSkin_TextureLocation(2, 0), false);
+    private BlockSkin skin = new BlockSkin(new BlockSkin_TextureLocation[] { new BlockSkin_TextureLocation(4, 0), new BlockSkin_TextureLocation(4, 0), new BlockSkin_TextureLocation(3, 0), new BlockSkin_TextureLocation(3, 0), new BlockSkin_TextureLocation(3, 0), new BlockSkin_TextureLocation(3, 0) }, false);
     
     @Override
     public void addBlock() {
@@ -34,4 +30,5 @@ public class DirtBlock extends Block implements GenericBlockManager{
         return isWalkThroughable;
     }
     
+
 }

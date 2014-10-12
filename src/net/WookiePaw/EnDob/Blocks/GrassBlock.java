@@ -11,7 +11,7 @@ import com.cubes.BlockManager;
 import com.cubes.BlockSkin;
 import com.cubes.BlockSkin_TextureLocation;
 import com.cubes.Vector3Int;
-import net.WookiePaw.EnDob.GenericBlockManager;
+import net.WookiePaw.EnDob.Manager.GenericBlockManager;
 
 public class GrassBlock extends Block implements GenericBlockManager{
     private boolean isTransparent = false;
