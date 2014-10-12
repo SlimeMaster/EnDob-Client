@@ -1,0 +1,21 @@
+Format:
+
+  N: John Smith
+  E: johnsmith@fakeemail.joke
+  P: 1-800-555-000
+  D: Design
+  
+  
+  
+Credits:
+  WookiePaw:
+    N: Walt Pach
+    E: Latitude.Computers@gmail.com
+    P: Not posted
+    D: Programming
+  
+  lowell07:
+    N: Lowell Davis
+    E: Not Posted
+    P: Not Posted
+    D: Sound (Amazing!!)

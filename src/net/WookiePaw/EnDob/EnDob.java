@@ -48,7 +48,7 @@ public class EnDob extends SimpleApplication{
         Node terrainNode = new Node();
         terrainNode.addControl(blockTerrain);
         rootNode.attachChild(terrainNode);
- 
+        
         cam.setLocation(new Vector3f(-10, 10, 16));
         cam.lookAtDirection(new Vector3f(1, -0.56f, -1), Vector3f.UNIT_Y);
         flyCam.setMoveSpeed(50);
