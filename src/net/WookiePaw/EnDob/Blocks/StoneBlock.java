@@ -14,7 +14,7 @@ import net.WookiePaw.EnDob.GenericBlockManager;
 public class StoneBlock extends Block implements GenericBlockManager{
    private boolean isTransparent = false;
     private boolean isWalkThroughable = false;
-    private BlockSkin skin = new BlockSkin(new BlockSkin_TextureLocation(11, 0), isWalkThroughable);
+    private BlockSkin skin = new BlockSkin(new BlockSkin_TextureLocation(12, 0), isWalkThroughable);
     
     @Override
     public void addBlock() {
