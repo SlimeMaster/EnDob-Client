@@ -1,50 +1,6 @@
 EnDob lesser public license
 
-1. Definitions:
-	"Works" - Any copyrighted material released under this license.
-	"Holder" - The entity who released the Works under this license and is the legal owner of the Works.
- 	"Authors" - The entity that refers to: "Walt Pach", and "Lowell Davis".
-
-2. Agreement:
-	I herby agree that the following terms shall legally bind me, until I choose to be released according to section (3),
- 	to the full extent of applicable law.
-
-
-3. Release
-	I acknowledge that in order to release myself from this license I must:
-		1) Destroy all copies of the works that I own.
-		2) Electronically destroy all copies of the works.
-		3) Stop using the works immediately.
-		4 )Waive all rights pertaining to this license granted by this license.
-
-
-4. Terms of use:
-	I acknowledge that by using the works I waive any rights concerning the following legal conditions and only the 
-	following rights will be revoked and/or given:
-		1) I cannot use any of the works for any commercial reasons, pay-to-play, or coin operated uses.
-		2) I cannot redistribute the works.
-		3) I cannot remove this license from the works.
-		4) I cannot make copies of the works, electronically or any other form.
-
-
-5. Transfer of Rights:
-	I acknowledge that I cannot transfer my legal rights pertaining to this license to any other entity, single or 
-	collective.
-
-
-6. Enforcement of terms:
-	All terms here are enforced to the full extent of applicable law and I acknowledge that in the event I fail to follow 
-	any of the conditions of this license I will be held legally responsible to copyright infringement according to the 
-	Digital Millennium Copyright Act of 1998.
-
-
-7. Binding agreement:
-	I agree to be legally bound by this license until I complete the steps provided in sections (3).
-
-
-8. Releasement of authors:
-	The authors reserve the right to alter the conditions of this license at any time, with or without 
-	notification, and are legally exempt from its conditions.
+Copyright 2014 Walt Pach, Lowell Davis, all rights reserved.
 
 Approved by the signers on the date of: 10/10/14  
 
